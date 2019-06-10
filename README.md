@@ -1,8 +1,10 @@
-#Search Images.
+# Search Images.
 
 #### By **{Abdullahi Musa}**
 
-##This is an image search web app that searchs images in the unsplash api and returns a series of images that a user asked for.
+## Description
+
+This is an image search web app that searchs images in the unsplash api and returns a series of images that a user asked for.
 
 ## Setup/Installation Requirements
 
